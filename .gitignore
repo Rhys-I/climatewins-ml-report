@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+.venv/
+venv/
+.env
+.env.*
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Data & outputs
+data/*.csv
+data/*.parquet
+data/*.json
+!data/.gitkeep
+*.zip
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tableau/PowerPoint autosaves
+~$*.pptx
+*.twb~
