@@ -14,6 +14,8 @@ The repository brings together Exercises **1.2 through 1.6**, combining data pre
 👉 **Interactive Tableau Dashboard:**  
 [View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/rhys.ingalls/viz/ClimateWins_Presentation/Dashboard1)
 
+🎥 Watch the presentation video: [YouTube – ClimateWins Presentation](https://youtu.be/yTbekKT6FeU)
+
 ---
 
 ## 🧩 Objectives & Hypotheses
